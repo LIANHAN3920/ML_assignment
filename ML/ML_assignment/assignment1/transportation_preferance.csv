@@ -1,0 +1,6 @@
+ID,Age,Income,Owns_Car,Number of Vehicles,Preferred Transport Mode
+1,25,50,Yes,2,Car
+2,NaN,40,No,0,Public Transport
+3,35,NaN,Yes,1,Car
+4,45,70,Yes,NaN,Car
+5,30,60,No,0,Bike
